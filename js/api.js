@@ -8,7 +8,7 @@ const LS_USER = "kiln:user";
 const LS_BASE = "kiln:api_base";
 const LS_LOTES = "kiln:lotes";
 
-const DEFAULT_BASE = "http://localhost:8000";
+const DEFAULT_BASE = "https://stagnant-copious-oblivion.ngrok-free.dev";
 
 export const api = {
   getBase() {
